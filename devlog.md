@@ -16,4 +16,10 @@ a version from 2022
 https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application
 
 
+issue with unicorn
+https://stackoverflow.com/questions/23647468/rails-when-served-by-unicorn-is-generating-the-wrong-fingerprint-for-precompiled
 
+
+ruby rails typescript
+https://www.ruby-toolbox.com/projects/typescript-rails
+dis dead
